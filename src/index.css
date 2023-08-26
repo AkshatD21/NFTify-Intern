@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url("src/assets/BG.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.heading {
+  font-family: "Pacifico", cursive;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.70)
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100px;
+}
+
+.btn {
+  border-radius: 20px;
+  background: linear-gradient(131deg, #7c0f35 0%, #581266 100%);
+  color: white;
+  /* Set the text color */
+  padding: 10px 20px;
+  /* Adjust padding as needed */
+  border: none;
+  cursor: pointer;
+}
+
+/* Add hover effect */
+.btn:hover {
+  opacity: 0.9;
+  /* Decrease opacity slightly on hover for a visual effect */
+}
+
+

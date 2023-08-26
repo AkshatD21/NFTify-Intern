@@ -1,0 +1,33 @@
+.truncate{
+    overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        max-width: 100px;
+}
+
+.btn {
+    border-radius: 20px;
+    background: linear-gradient(131deg, #7C0F35 0%, #581266 100%);
+    color: white;
+    /* Set the text color */
+    padding: 10px 20px;
+    /* Adjust padding as needed */
+    border: none;
+    cursor: pointer;
+}
+
+/* Add hover effect */
+.btn:hover {
+    opacity: 0.9;
+    /* Decrease opacity slightly on hover for a visual effect */
+}
+
+.custom-input {
+    border-radius: 20px;
+    border: 1px solid #FFF;
+    background: linear-gradient(132deg, rgba(124, 15, 53, 0.20) 0%, rgba(88, 18, 102, 0.20) 100%);
+    color: white;
+    /* Set the text color */
+    padding: 10px 15px;
+    /* Adjust padding as needed */
+}
