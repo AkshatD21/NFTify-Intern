@@ -1,9 +1,5 @@
 # Dex Screener API Integration Website
 
-Website Screenshot
-<img src="https://github.com/AkshatD21/NFTify-Intern/assets/100838001/8194cfc3-a421-4800-9cb5-26bb92be74be" />
-<img src="https://github.com/AkshatD21/NFTify-Intern/assets/100838001/97a2c75d-f341-42a9-8a83-3bfed3e33baa"/>
-
 Welcome to the Dex Screener API Integration WebApp repository! In this project, you've built a user interface that interacts with the Dex Screener API to inform users about tokens and pairs. Below is a summary of your project.
 
 ## Project Overview
@@ -34,6 +30,10 @@ Welcome to the Dex Screener API Integration WebApp repository! In this project, 
 ## Deployment
 
 The Website is deployed using NETLIFY.
+
+## Screenshot
+<img src="https://github.com/AkshatD21/NFTify-Intern/assets/100838001/8194cfc3-a421-4800-9cb5-26bb92be74be" />
+<img src="https://github.com/AkshatD21/NFTify-Intern/assets/100838001/97a2c75d-f341-42a9-8a83-3bfed3e33baa"/>
 
 ## Contact
 
